@@ -16,7 +16,7 @@ You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png (facebook icon)
+[1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
