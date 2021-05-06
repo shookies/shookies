@@ -10,6 +10,16 @@ I add to this page projects that i'm working on in my spare time, as well as a s
 My current time-vacuum is building a Reinforcement Learning agent for Starcraft 2 using deepmind's PySC2 library.
 
 
-[![sc2_bot Card](https://github-readme-stats.vercel.app/api/pin/?username=shookies&repo=SC2_agent&theme=dark)](https://github.com//shookies/SC2_agent)
+<!--[![sc2_bot Card](https://github-readme-stats.vercel.app/api/pin/?username=shookies&repo=SC2_agent&theme=dark)](https://github.com//shookies/SC2_agent)
 
+You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+<!-- Icons -->
+
+[1.2]: https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png (facebook icon)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.facebook.com/tom.marom1/
+[2]: https://www.linkedin.com/in/tmarom/
