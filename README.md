@@ -12,7 +12,7 @@ My current time-vacuum is building a Reinforcement Learning agent for Starcraft 
 
 <!--[![sc2_bot Card](https://github-readme-stats.vercel.app/api/pin/?username=shookies&repo=SC2_agent&theme=dark)](https://github.com//shookies/SC2_agent) -->
 
-You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
