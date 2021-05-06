@@ -10,9 +10,6 @@ I add to this page projects that i'm working on in my spare time, as well as a s
 My current time-vacuum is building a Reinforcement Learning agent for Starcraft 2 using deepmind's PySC2 library.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shookies&repo=SC2_agent)](https://github.com//shookies/SC2_agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shookies&repo=SC2_agent&theme=dark)](https://github.com//shookies/SC2_agent)
 
 
-<a href="https://github.com/shookies/SC2_agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shookies&repo=SC2_agent-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
