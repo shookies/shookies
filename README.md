@@ -9,4 +9,6 @@ and I'm also looking for my first challenge as a software developer.
 I add to this page projects that i'm working on in my spare time, as well as a select few projects from my studies.
 My current time-vacuum is  building a Reinforcement Learning agent for Starcraft 2 using deepmind's PySC2 library.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shookies&theme=dark" />
+<a href="https://github.com/shookies/SC2_agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shookies&repo=SC2_agent-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
